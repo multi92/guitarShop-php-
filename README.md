@@ -4,4 +4,5 @@ guitar shop
 -mySql
 
 ecommerce guitar buying cart
-inserting, deleting products in the card and database
+inserting, 
+deleting products in the card and database
